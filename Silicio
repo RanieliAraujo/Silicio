@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg justify-content-center rounded"  style="background-color: #126EFF; height: 70px; padding: .5rem 1rem;">
-        <p class="navbar-text text-white fs-2 ">Desenvolvimento de Interfaces Web</p>
+    <nav class="navbar navbar-expand-lg justify-content-center rounded" style="background-color: #126EFF; height: 70px; padding: .5rem 1rem;">
+        <p class="navbar-text text-white fs-2">Desenvolvimento de Interfaces Web</p>
     </nav>
     <div class="d-flex justify-content-between">
         <a href="index.html" class="btn btn-outline-primary mt-3 ms-2 fs-3">RANIELI ARAUJO</a>
@@ -26,15 +26,6 @@
             <h1 class="text-center">O Silício</h1>
         </div>
     </header>
-    <nav class="bg-light py-2">
-        <div class="container">
-            <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Sobre</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Contato</a></li>
-            </ul>
-        </div>
-    </nav>
     <section class="py-4">
         <div class="container">
             <h2>O que é o Silício?</h2>
